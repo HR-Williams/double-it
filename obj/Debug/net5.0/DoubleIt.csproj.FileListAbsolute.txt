@@ -1,0 +1,15 @@
+/Users/hr/code/double-it/obj/Debug/net5.0/DoubleIt.csprojAssemblyReference.cache
+/Users/hr/code/double-it/obj/Debug/net5.0/DoubleIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hr/code/double-it/obj/Debug/net5.0/DoubleIt.AssemblyInfoInputs.cache
+/Users/hr/code/double-it/obj/Debug/net5.0/DoubleIt.AssemblyInfo.cs
+/Users/hr/code/double-it/obj/Debug/net5.0/DoubleIt.csproj.CoreCompileInputs.cache
+/Users/hr/code/double-it/bin/Debug/net5.0/DoubleIt.deps.json
+/Users/hr/code/double-it/bin/Debug/net5.0/DoubleIt.runtimeconfig.json
+/Users/hr/code/double-it/bin/Debug/net5.0/DoubleIt.runtimeconfig.dev.json
+/Users/hr/code/double-it/bin/Debug/net5.0/DoubleIt.dll
+/Users/hr/code/double-it/bin/Debug/net5.0/ref/DoubleIt.dll
+/Users/hr/code/double-it/bin/Debug/net5.0/DoubleIt.pdb
+/Users/hr/code/double-it/obj/Debug/net5.0/DoubleIt.dll
+/Users/hr/code/double-it/obj/Debug/net5.0/ref/DoubleIt.dll
+/Users/hr/code/double-it/obj/Debug/net5.0/DoubleIt.pdb
+/Users/hr/code/double-it/obj/Debug/net5.0/DoubleIt.genruntimeconfig.cache
